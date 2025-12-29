@@ -19,7 +19,7 @@ A pure HTML and CSS animated candle featuring a realistic flame and glowing effe
 
 ## 🚀 How to Run
 1. Download or clone the repository:
-   ```bash
+   ```
    git clone https://github.com/your-username/animated-candle-css.git
 ````
 
@@ -40,7 +40,6 @@ A pure HTML and CSS animated candle featuring a realistic flame and glowing effe
 
 This project is open-source and free to use.
 
-```
 
 If you want, I can also:
 - Customize it for **GitHub Pages**
@@ -48,5 +47,3 @@ If you want, I can also:
 - Write a **very short README**
 - Add **author details**
 
-Just say the word 👍
-```
